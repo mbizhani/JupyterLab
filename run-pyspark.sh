@@ -10,4 +10,4 @@ export PYSPARK_DRIVER_PYTHON_OPTS='lab'
 
 source jupyter/bin/activate
 
-${SPARK_HOME}/bin/pyspark --packages com.johnsnowlabs.nlp:spark-nlp_2.12:4.3.1
+${SPARK_HOME}/bin/pyspark --packages com.johnsnowlabs.nlp:spark-nlp_2.12:4.4.1
